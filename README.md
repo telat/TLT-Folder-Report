@@ -28,3 +28,36 @@
 - Windows 7 / 10 / 11 / Server 2012 R2+
 - .NET Framework 4.7.2+
 - Active Directory (optional, for AD modules)
+
+---
+
+# TLT Folder Report (Türkçe)
+
+**Windows dosya sunucuları için NTFS klasör izin raporu, AD denetimi ve yetki matrisi yazılımı.**
+
+## Özellikler
+
+- NTFS klasör izin raporları (Excel/PDF)
+- Active Directory kullanıcı ve grup denetimi
+- AD Senkronizasyonu — kullanıcı/grup değişikliklerini otomatik tespit eder
+- Yetki matrisi görünümü
+- Risk analizi (yüksek/orta/düşük risk skoru)
+- Delta raporu — iki tarama arasındaki izin değişiklikleri
+- Hareketsiz klasörler tespiti
+- Türkçe ve İngilizce dil desteği
+- Çevrimiçi ve çevrimdışı lisans desteği
+
+## Web Sitesi
+
+**[https://tltfolder.com](https://tltfolder.com)**
+
+- [Özellikler](https://tltfolder.com/ozellikler.php)
+- [Paketler](https://tltfolder.com/paketler.php)
+- [İndir](https://tltfolder.com/indir.php)
+- [Değişiklikler](https://tltfolder.com/changelog.php)
+
+## Sistem Gereksinimleri
+
+- Windows 7 / 10 / 11 / Server 2012 R2+
+- .NET Framework 4.7.2+
+- Active Directory (opsiyonel, AD modülleri için)
