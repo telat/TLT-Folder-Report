@@ -63,4 +63,4 @@
 - Active Directory (opsiyonel, AD modülleri için)
 
 
-Key:NTFS folder permission report, folder permission matrix, file permission matrix, ACL management software, Windows file server security, risky access detection, Excel ACL report, Active Directory permissions, folder permission analysis tool, audit readiness software
+
